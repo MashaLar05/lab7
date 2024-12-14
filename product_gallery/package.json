@@ -1,4 +1,5 @@
 {
+  "homepage": "https://mashalar05.github.io/labs-front-end/lab7_/product_gallery",
   "name": "product_gallery",
   "version": "0.1.0",
   "private": true,
@@ -39,7 +40,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://mashalar05.github.io/labs-front-end/lab7_/product_gallery",
   "devDependencies": {
     "gh-pages": "^6.2.0"
   }
